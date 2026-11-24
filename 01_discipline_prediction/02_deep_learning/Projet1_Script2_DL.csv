@@ -1,0 +1,1941 @@
+ID,pred
+1,Santé publique & environnementale
+2,"Systèmes, économie & politiques de santé"
+3,Santé publique & environnementale
+4,Neurologie
+5,Cardio-métabolique & rénal
+6,Autres spécialités médicales
+7,Génétique & génomique
+8,Informatique de santé
+9,Autres spécialités médicales
+10,"Systèmes, économie & politiques de santé"
+11,Oncologie & hématologie
+12,Infectiologie & immunologie
+13,Épidémiologie
+14,Appareil locomoteur & réadaptation
+15,"Systèmes, économie & politiques de santé"
+16,Autres spécialités médicales
+17,"Santé de la mère, de l'enfant & reproduction"
+18,Oncologie & hématologie
+19,Informatique de santé
+20,Informatique de santé
+21,Autres spécialités médicales
+22,Autres spécialités médicales
+23,Santé mentale & addictions
+24,Cardio-métabolique & rénal
+25,Santé mentale & addictions
+26,"Santé de la mère, de l'enfant & reproduction"
+27,Autres spécialités médicales
+28,Autres spécialités médicales
+29,Oncologie & hématologie
+30,Autres spécialités médicales
+31,Oncologie & hématologie
+32,"Soins primaires, gériatrie & palliatif"
+33,Autres spécialités médicales
+34,Neurologie
+35,Santé publique & environnementale
+36,Santé publique & environnementale
+37,Imagerie & diagnostic
+38,Autres spécialités médicales
+39,Épidémiologie
+40,Imagerie & diagnostic
+41,Autres spécialités médicales
+42,Santé publique & environnementale
+43,Autres spécialités médicales
+44,Autres spécialités médicales
+45,Neurologie
+46,Appareil locomoteur & réadaptation
+47,Informatique de santé
+48,Autres spécialités médicales
+49,Neurologie
+50,Oncologie & hématologie
+51,Autres spécialités médicales
+52,Infectiologie & immunologie
+53,Infectiologie & immunologie
+54,Épidémiologie
+55,Infectiologie & immunologie
+56,Autres spécialités médicales
+57,"Chirurgie, anesthésie & soins aigus"
+58,Épidémiologie
+59,Épidémiologie
+60,Autres spécialités médicales
+61,"Santé de la mère, de l'enfant & reproduction"
+62,Santé mentale & addictions
+63,Épidémiologie
+64,Autres spécialités médicales
+65,Santé publique & environnementale
+66,Appareil locomoteur & réadaptation
+67,Autres spécialités médicales
+68,Autres spécialités médicales
+69,Infectiologie & immunologie
+70,Autres spécialités médicales
+71,Appareil locomoteur & réadaptation
+72,Autres spécialités médicales
+73,"Chirurgie, anesthésie & soins aigus"
+74,Informatique de santé
+75,Autres spécialités médicales
+76,"Santé de la mère, de l'enfant & reproduction"
+77,Oncologie & hématologie
+78,Oncologie & hématologie
+79,Autres spécialités médicales
+80,Imagerie & diagnostic
+81,"Chirurgie, anesthésie & soins aigus"
+82,Génétique & génomique
+83,Épidémiologie
+84,Autres spécialités médicales
+85,Autres spécialités médicales
+86,Autres spécialités médicales
+87,Autres spécialités médicales
+88,Autres spécialités médicales
+89,Autres spécialités médicales
+90,Autres spécialités médicales
+91,Santé mentale & addictions
+92,Autres spécialités médicales
+93,Autres spécialités médicales
+94,Autres spécialités médicales
+95,Autres spécialités médicales
+96,Santé publique & environnementale
+97,Imagerie & diagnostic
+98,Autres spécialités médicales
+99,Autres spécialités médicales
+100,Autres spécialités médicales
+101,"Systèmes, économie & politiques de santé"
+102,Oncologie & hématologie
+103,Épidémiologie
+104,Autres spécialités médicales
+105,Autres spécialités médicales
+106,Autres spécialités médicales
+107,Autres spécialités médicales
+108,Épidémiologie
+109,Imagerie & diagnostic
+110,Cardio-métabolique & rénal
+111,"Systèmes, économie & politiques de santé"
+112,Infectiologie & immunologie
+113,Appareil locomoteur & réadaptation
+114,Appareil locomoteur & réadaptation
+115,Épidémiologie
+116,Autres spécialités médicales
+117,Autres spécialités médicales
+118,Autres spécialités médicales
+119,Oncologie & hématologie
+120,Autres spécialités médicales
+121,Autres spécialités médicales
+122,Informatique de santé
+123,Santé mentale & addictions
+124,Autres spécialités médicales
+125,Épidémiologie
+126,Autres spécialités médicales
+127,Santé publique & environnementale
+128,"Systèmes, économie & politiques de santé"
+129,"Soins primaires, gériatrie & palliatif"
+130,Autres spécialités médicales
+131,Autres spécialités médicales
+132,Santé mentale & addictions
+133,"Santé de la mère, de l'enfant & reproduction"
+134,Cardio-métabolique & rénal
+135,Informatique de santé
+136,Autres spécialités médicales
+137,"Santé de la mère, de l'enfant & reproduction"
+138,Génétique & génomique
+139,Autres spécialités médicales
+140,Autres spécialités médicales
+141,Santé mentale & addictions
+142,Autres spécialités médicales
+143,Neurologie
+144,Neurologie
+145,Autres spécialités médicales
+146,Autres spécialités médicales
+147,Autres spécialités médicales
+148,Autres spécialités médicales
+149,Oncologie & hématologie
+150,Cardio-métabolique & rénal
+151,Génétique & génomique
+152,Génétique & génomique
+153,Génétique & génomique
+154,Génétique & génomique
+155,Autres spécialités médicales
+156,Cardio-métabolique & rénal
+157,Autres spécialités médicales
+158,Autres spécialités médicales
+159,Autres spécialités médicales
+160,Santé publique & environnementale
+161,"Santé de la mère, de l'enfant & reproduction"
+162,Épidémiologie
+163,Épidémiologie
+164,Santé mentale & addictions
+165,Santé mentale & addictions
+166,Autres spécialités médicales
+167,Épidémiologie
+168,Cardio-métabolique & rénal
+169,Autres spécialités médicales
+170,Santé publique & environnementale
+171,"Santé de la mère, de l'enfant & reproduction"
+172,"Systèmes, économie & politiques de santé"
+173,Neurologie
+174,Autres spécialités médicales
+175,Oncologie & hématologie
+176,Autres spécialités médicales
+177,Autres spécialités médicales
+178,Génétique & génomique
+179,Génétique & génomique
+180,Informatique de santé
+181,Autres spécialités médicales
+182,Infectiologie & immunologie
+183,Autres spécialités médicales
+184,Autres spécialités médicales
+185,Santé publique & environnementale
+186,Santé mentale & addictions
+187,Santé mentale & addictions
+188,Infectiologie & immunologie
+189,Autres spécialités médicales
+190,Autres spécialités médicales
+191,Épidémiologie
+192,Épidémiologie
+193,Autres spécialités médicales
+194,Génétique & génomique
+195,Autres spécialités médicales
+196,Informatique de santé
+197,Autres spécialités médicales
+198,"Santé de la mère, de l'enfant & reproduction"
+199,Oncologie & hématologie
+200,Épidémiologie
+201,Autres spécialités médicales
+202,Autres spécialités médicales
+203,Autres spécialités médicales
+204,Cardio-métabolique & rénal
+205,Génétique & génomique
+206,Épidémiologie
+207,Oncologie & hématologie
+208,Autres spécialités médicales
+209,Oncologie & hématologie
+210,Autres spécialités médicales
+211,Informatique de santé
+212,Informatique de santé
+213,Épidémiologie
+214,Cardio-métabolique & rénal
+215,Autres spécialités médicales
+216,Santé publique & environnementale
+217,Épidémiologie
+218,Épidémiologie
+219,Santé mentale & addictions
+220,Santé mentale & addictions
+221,Infectiologie & immunologie
+222,Imagerie & diagnostic
+223,Autres spécialités médicales
+224,Autres spécialités médicales
+225,Autres spécialités médicales
+226,Neurologie
+227,Autres spécialités médicales
+228,Autres spécialités médicales
+229,Imagerie & diagnostic
+230,Génétique & génomique
+231,Génétique & génomique
+232,"Systèmes, économie & politiques de santé"
+233,Autres spécialités médicales
+234,Santé publique & environnementale
+235,Autres spécialités médicales
+236,Autres spécialités médicales
+237,Infectiologie & immunologie
+238,Infectiologie & immunologie
+239,"Chirurgie, anesthésie & soins aigus"
+240,Autres spécialités médicales
+241,Cardio-métabolique & rénal
+242,Santé publique & environnementale
+243,Épidémiologie
+244,Épidémiologie
+245,Santé mentale & addictions
+246,Santé mentale & addictions
+247,Neurologie
+248,Épidémiologie
+249,"Systèmes, économie & politiques de santé"
+250,"Chirurgie, anesthésie & soins aigus"
+251,Autres spécialités médicales
+252,Oncologie & hématologie
+253,Cardio-métabolique & rénal
+254,Génétique & génomique
+255,Autres spécialités médicales
+256,Informatique de santé
+257,Épidémiologie
+258,Infectiologie & immunologie
+259,Neurologie
+260,Génétique & génomique
+261,Cardio-métabolique & rénal
+262,Santé mentale & addictions
+263,Autres spécialités médicales
+264,Informatique de santé
+265,"Systèmes, économie & politiques de santé"
+266,Épidémiologie
+267,Neurologie
+268,Autres spécialités médicales
+269,"Santé de la mère, de l'enfant & reproduction"
+270,Autres spécialités médicales
+271,Imagerie & diagnostic
+272,Neurologie
+273,Autres spécialités médicales
+274,Imagerie & diagnostic
+275,Autres spécialités médicales
+276,Autres spécialités médicales
+277,Autres spécialités médicales
+278,Autres spécialités médicales
+279,Autres spécialités médicales
+280,"Santé de la mère, de l'enfant & reproduction"
+281,"Systèmes, économie & politiques de santé"
+282,Autres spécialités médicales
+283,Imagerie & diagnostic
+284,Oncologie & hématologie
+285,Épidémiologie
+286,Autres spécialités médicales
+287,"Systèmes, économie & politiques de santé"
+288,Neurologie
+289,Autres spécialités médicales
+290,Santé publique & environnementale
+291,Infectiologie & immunologie
+292,Santé publique & environnementale
+293,"Chirurgie, anesthésie & soins aigus"
+294,Autres spécialités médicales
+295,Oncologie & hématologie
+296,Oncologie & hématologie
+297,Autres spécialités médicales
+298,Autres spécialités médicales
+299,Génétique & génomique
+300,Informatique de santé
+301,Cardio-métabolique & rénal
+302,Autres spécialités médicales
+303,Santé mentale & addictions
+304,"Systèmes, économie & politiques de santé"
+305,"Soins primaires, gériatrie & palliatif"
+306,Appareil locomoteur & réadaptation
+307,Génétique & génomique
+308,Autres spécialités médicales
+309,Neurologie
+310,Oncologie & hématologie
+311,Informatique de santé
+312,Santé mentale & addictions
+313,Autres spécialités médicales
+314,Cardio-métabolique & rénal
+315,Santé mentale & addictions
+316,Autres spécialités médicales
+317,Autres spécialités médicales
+318,Épidémiologie
+319,Infectiologie & immunologie
+320,Santé mentale & addictions
+321,Appareil locomoteur & réadaptation
+322,Imagerie & diagnostic
+323,Neurologie
+324,"Soins primaires, gériatrie & palliatif"
+325,Oncologie & hématologie
+326,Génétique & génomique
+327,Informatique de santé
+328,Génétique & génomique
+329,Autres spécialités médicales
+330,"Systèmes, économie & politiques de santé"
+331,Informatique de santé
+332,Informatique de santé
+333,Informatique de santé
+334,Informatique de santé
+335,Infectiologie & immunologie
+336,Cardio-métabolique & rénal
+337,Génétique & génomique
+338,Autres spécialités médicales
+339,Cardio-métabolique & rénal
+340,Épidémiologie
+341,Épidémiologie
+342,Autres spécialités médicales
+343,Santé publique & environnementale
+344,Autres spécialités médicales
+345,Imagerie & diagnostic
+346,Imagerie & diagnostic
+347,Autres spécialités médicales
+348,Autres spécialités médicales
+349,Santé mentale & addictions
+350,Informatique de santé
+351,Informatique de santé
+352,Informatique de santé
+353,Informatique de santé
+354,Informatique de santé
+355,Infectiologie & immunologie
+356,Autres spécialités médicales
+357,Épidémiologie
+358,Épidémiologie
+359,Santé publique & environnementale
+360,Infectiologie & immunologie
+361,Autres spécialités médicales
+362,"Systèmes, économie & politiques de santé"
+363,Autres spécialités médicales
+364,Autres spécialités médicales
+365,"Chirurgie, anesthésie & soins aigus"
+366,Neurologie
+367,Autres spécialités médicales
+368,Santé mentale & addictions
+369,Oncologie & hématologie
+370,Génétique & génomique
+371,Autres spécialités médicales
+372,Autres spécialités médicales
+373,Autres spécialités médicales
+374,Autres spécialités médicales
+375,"Chirurgie, anesthésie & soins aigus"
+376,Épidémiologie
+377,Épidémiologie
+378,Autres spécialités médicales
+379,Santé mentale & addictions
+380,"Systèmes, économie & politiques de santé"
+381,Santé mentale & addictions
+382,Autres spécialités médicales
+383,"Chirurgie, anesthésie & soins aigus"
+384,Autres spécialités médicales
+385,Autres spécialités médicales
+386,Autres spécialités médicales
+387,Informatique de santé
+388,Autres spécialités médicales
+389,Autres spécialités médicales
+390,Autres spécialités médicales
+391,Santé publique & environnementale
+392,Infectiologie & immunologie
+393,Autres spécialités médicales
+394,Autres spécialités médicales
+395,Cardio-métabolique & rénal
+396,Épidémiologie
+397,Autres spécialités médicales
+398,Imagerie & diagnostic
+399,Autres spécialités médicales
+400,"Systèmes, économie & politiques de santé"
+401,"Santé de la mère, de l'enfant & reproduction"
+402,Neurologie
+403,Appareil locomoteur & réadaptation
+404,Imagerie & diagnostic
+405,Appareil locomoteur & réadaptation
+406,Génétique & génomique
+407,Neurologie
+408,Informatique de santé
+409,"Chirurgie, anesthésie & soins aigus"
+410,"Soins primaires, gériatrie & palliatif"
+411,Infectiologie & immunologie
+412,Santé mentale & addictions
+413,Neurologie
+414,Autres spécialités médicales
+415,Autres spécialités médicales
+416,Santé publique & environnementale
+417,Épidémiologie
+418,Cardio-métabolique & rénal
+419,Cardio-métabolique & rénal
+420,Autres spécialités médicales
+421,Santé publique & environnementale
+422,Autres spécialités médicales
+423,Autres spécialités médicales
+424,Santé publique & environnementale
+425,Appareil locomoteur & réadaptation
+426,Infectiologie & immunologie
+427,Autres spécialités médicales
+428,"Santé de la mère, de l'enfant & reproduction"
+429,Santé mentale & addictions
+430,Cardio-métabolique & rénal
+431,Appareil locomoteur & réadaptation
+432,Autres spécialités médicales
+433,Autres spécialités médicales
+434,Autres spécialités médicales
+435,Autres spécialités médicales
+436,Autres spécialités médicales
+437,Autres spécialités médicales
+438,Cardio-métabolique & rénal
+439,"Systèmes, économie & politiques de santé"
+440,Génétique & génomique
+441,Autres spécialités médicales
+442,Autres spécialités médicales
+443,Épidémiologie
+444,Autres spécialités médicales
+445,Informatique de santé
+446,Cardio-métabolique & rénal
+447,Autres spécialités médicales
+448,Santé mentale & addictions
+449,"Systèmes, économie & politiques de santé"
+450,Autres spécialités médicales
+451,"Chirurgie, anesthésie & soins aigus"
+452,Cardio-métabolique & rénal
+453,Autres spécialités médicales
+454,Santé publique & environnementale
+455,Épidémiologie
+456,Infectiologie & immunologie
+457,Imagerie & diagnostic
+458,Neurologie
+459,Épidémiologie
+460,Autres spécialités médicales
+461,Autres spécialités médicales
+462,Infectiologie & immunologie
+463,"Systèmes, économie & politiques de santé"
+464,Cardio-métabolique & rénal
+465,Épidémiologie
+466,Appareil locomoteur & réadaptation
+467,Appareil locomoteur & réadaptation
+468,Santé mentale & addictions
+469,Neurologie
+470,"Santé de la mère, de l'enfant & reproduction"
+471,Autres spécialités médicales
+472,Génétique & génomique
+473,Autres spécialités médicales
+474,Autres spécialités médicales
+475,"Soins primaires, gériatrie & palliatif"
+476,Autres spécialités médicales
+477,Cardio-métabolique & rénal
+478,Autres spécialités médicales
+479,Épidémiologie
+480,Épidémiologie
+481,Autres spécialités médicales
+482,"Santé de la mère, de l'enfant & reproduction"
+483,"Systèmes, économie & politiques de santé"
+484,Santé mentale & addictions
+485,Santé mentale & addictions
+486,Santé publique & environnementale
+487,Santé publique & environnementale
+488,Épidémiologie
+489,Épidémiologie
+490,Informatique de santé
+491,Imagerie & diagnostic
+492,Autres spécialités médicales
+493,Informatique de santé
+494,Imagerie & diagnostic
+495,Infectiologie & immunologie
+496,Autres spécialités médicales
+497,Génétique & génomique
+498,Autres spécialités médicales
+499,Neurologie
+500,Autres spécialités médicales
+501,Épidémiologie
+502,Cardio-métabolique & rénal
+503,Oncologie & hématologie
+504,Génétique & génomique
+505,"Soins primaires, gériatrie & palliatif"
+506,Santé publique & environnementale
+507,Informatique de santé
+508,Santé publique & environnementale
+509,Autres spécialités médicales
+510,Autres spécialités médicales
+511,Épidémiologie
+512,Autres spécialités médicales
+513,Autres spécialités médicales
+514,Autres spécialités médicales
+515,Infectiologie & immunologie
+516,Santé publique & environnementale
+517,"Santé de la mère, de l'enfant & reproduction"
+518,Autres spécialités médicales
+519,Neurologie
+520,Neurologie
+521,Oncologie & hématologie
+522,Neurologie
+523,Autres spécialités médicales
+524,Informatique de santé
+525,Santé publique & environnementale
+526,Informatique de santé
+527,"Chirurgie, anesthésie & soins aigus"
+528,Autres spécialités médicales
+529,Autres spécialités médicales
+530,Autres spécialités médicales
+531,Autres spécialités médicales
+532,Appareil locomoteur & réadaptation
+533,Oncologie & hématologie
+534,Appareil locomoteur & réadaptation
+535,Autres spécialités médicales
+536,Infectiologie & immunologie
+537,"Santé de la mère, de l'enfant & reproduction"
+538,Neurologie
+539,Appareil locomoteur & réadaptation
+540,Autres spécialités médicales
+541,Autres spécialités médicales
+542,Santé publique & environnementale
+543,Cardio-métabolique & rénal
+544,Autres spécialités médicales
+545,Autres spécialités médicales
+546,Santé mentale & addictions
+547,Génétique & génomique
+548,Autres spécialités médicales
+549,Autres spécialités médicales
+550,"Chirurgie, anesthésie & soins aigus"
+551,Autres spécialités médicales
+552,Épidémiologie
+553,Épidémiologie
+554,Épidémiologie
+555,Appareil locomoteur & réadaptation
+556,Oncologie & hématologie
+557,Appareil locomoteur & réadaptation
+558,Génétique & génomique
+559,Génétique & génomique
+560,Autres spécialités médicales
+561,"Systèmes, économie & politiques de santé"
+562,Autres spécialités médicales
+563,Autres spécialités médicales
+564,Autres spécialités médicales
+565,Santé mentale & addictions
+566,Santé publique & environnementale
+567,"Systèmes, économie & politiques de santé"
+568,Autres spécialités médicales
+569,Santé publique & environnementale
+570,Autres spécialités médicales
+571,Neurologie
+572,Oncologie & hématologie
+573,Autres spécialités médicales
+574,Autres spécialités médicales
+575,Autres spécialités médicales
+576,Informatique de santé
+577,"Systèmes, économie & politiques de santé"
+578,"Chirurgie, anesthésie & soins aigus"
+579,Infectiologie & immunologie
+580,Cardio-métabolique & rénal
+581,Autres spécialités médicales
+582,Épidémiologie
+583,Infectiologie & immunologie
+584,Autres spécialités médicales
+585,"Chirurgie, anesthésie & soins aigus"
+586,Cardio-métabolique & rénal
+587,Autres spécialités médicales
+588,Autres spécialités médicales
+589,Neurologie
+590,Autres spécialités médicales
+591,Appareil locomoteur & réadaptation
+592,Appareil locomoteur & réadaptation
+593,Autres spécialités médicales
+594,"Soins primaires, gériatrie & palliatif"
+595,Oncologie & hématologie
+596,Autres spécialités médicales
+597,Appareil locomoteur & réadaptation
+598,Infectiologie & immunologie
+599,Imagerie & diagnostic
+600,Cardio-métabolique & rénal
+601,Autres spécialités médicales
+602,Épidémiologie
+603,Autres spécialités médicales
+604,Autres spécialités médicales
+605,Autres spécialités médicales
+606,Neurologie
+607,Neurologie
+608,Autres spécialités médicales
+609,Imagerie & diagnostic
+610,Autres spécialités médicales
+611,Oncologie & hématologie
+612,Autres spécialités médicales
+613,Génétique & génomique
+614,Génétique & génomique
+615,Autres spécialités médicales
+616,"Systèmes, économie & politiques de santé"
+617,Oncologie & hématologie
+618,Épidémiologie
+619,Autres spécialités médicales
+620,Cardio-métabolique & rénal
+621,Infectiologie & immunologie
+622,Santé publique & environnementale
+623,Autres spécialités médicales
+624,Cardio-métabolique & rénal
+625,Épidémiologie
+626,Santé publique & environnementale
+627,Épidémiologie
+628,Autres spécialités médicales
+629,Génétique & génomique
+630,Autres spécialités médicales
+631,Autres spécialités médicales
+632,Infectiologie & immunologie
+633,Autres spécialités médicales
+634,Autres spécialités médicales
+635,Autres spécialités médicales
+636,Cardio-métabolique & rénal
+637,Épidémiologie
+638,Épidémiologie
+639,Neurologie
+640,Autres spécialités médicales
+641,Santé mentale & addictions
+642,Santé mentale & addictions
+643,Imagerie & diagnostic
+644,Génétique & génomique
+645,Santé publique & environnementale
+646,Oncologie & hématologie
+647,Autres spécialités médicales
+648,Autres spécialités médicales
+649,Informatique de santé
+650,Autres spécialités médicales
+651,"Chirurgie, anesthésie & soins aigus"
+652,Cardio-métabolique & rénal
+653,Autres spécialités médicales
+654,Santé mentale & addictions
+655,Génétique & génomique
+656,Santé mentale & addictions
+657,Santé mentale & addictions
+658,Génétique & génomique
+659,Autres spécialités médicales
+660,Autres spécialités médicales
+661,Informatique de santé
+662,"Systèmes, économie & politiques de santé"
+663,Infectiologie & immunologie
+664,Appareil locomoteur & réadaptation
+665,Autres spécialités médicales
+666,Oncologie & hématologie
+667,Autres spécialités médicales
+668,Autres spécialités médicales
+669,Cardio-métabolique & rénal
+670,Autres spécialités médicales
+671,Neurologie
+672,Génétique & génomique
+673,"Chirurgie, anesthésie & soins aigus"
+674,Autres spécialités médicales
+675,Santé publique & environnementale
+676,Infectiologie & immunologie
+677,Cardio-métabolique & rénal
+678,Cardio-métabolique & rénal
+679,Appareil locomoteur & réadaptation
+680,"Systèmes, économie & politiques de santé"
+681,Autres spécialités médicales
+682,"Soins primaires, gériatrie & palliatif"
+683,Infectiologie & immunologie
+684,Autres spécialités médicales
+685,Autres spécialités médicales
+686,Autres spécialités médicales
+687,Oncologie & hématologie
+688,Autres spécialités médicales
+689,Oncologie & hématologie
+690,Informatique de santé
+691,Informatique de santé
+692,Autres spécialités médicales
+693,Santé publique & environnementale
+694,Infectiologie & immunologie
+695,"Chirurgie, anesthésie & soins aigus"
+696,Autres spécialités médicales
+697,Autres spécialités médicales
+698,Épidémiologie
+699,"Santé de la mère, de l'enfant & reproduction"
+700,Infectiologie & immunologie
+701,Infectiologie & immunologie
+702,Santé publique & environnementale
+703,"Santé de la mère, de l'enfant & reproduction"
+704,Autres spécialités médicales
+705,"Soins primaires, gériatrie & palliatif"
+706,Autres spécialités médicales
+707,Santé mentale & addictions
+708,Autres spécialités médicales
+709,Santé mentale & addictions
+710,Santé mentale & addictions
+711,Santé mentale & addictions
+712,Autres spécialités médicales
+713,Appareil locomoteur & réadaptation
+714,Autres spécialités médicales
+715,"Chirurgie, anesthésie & soins aigus"
+716,Autres spécialités médicales
+717,Neurologie
+718,Neurologie
+719,Neurologie
+720,Neurologie
+721,Neurologie
+722,Cardio-métabolique & rénal
+723,"Santé de la mère, de l'enfant & reproduction"
+724,Autres spécialités médicales
+725,Santé publique & environnementale
+726,Oncologie & hématologie
+727,Autres spécialités médicales
+728,Cardio-métabolique & rénal
+729,Génétique & génomique
+730,Autres spécialités médicales
+731,Informatique de santé
+732,Informatique de santé
+733,Autres spécialités médicales
+734,"Systèmes, économie & politiques de santé"
+735,Épidémiologie
+736,Cardio-métabolique & rénal
+737,Infectiologie & immunologie
+738,Cardio-métabolique & rénal
+739,Autres spécialités médicales
+740,Épidémiologie
+741,Épidémiologie
+742,Épidémiologie
+743,Cardio-métabolique & rénal
+744,Autres spécialités médicales
+745,Santé mentale & addictions
+746,Santé mentale & addictions
+747,Santé mentale & addictions
+748,"Chirurgie, anesthésie & soins aigus"
+749,Imagerie & diagnostic
+750,Autres spécialités médicales
+751,Autres spécialités médicales
+752,Neurologie
+753,Neurologie
+754,"Santé de la mère, de l'enfant & reproduction"
+755,Autres spécialités médicales
+756,Autres spécialités médicales
+757,Génétique & génomique
+758,Infectiologie & immunologie
+759,Santé publique & environnementale
+760,Épidémiologie
+761,Autres spécialités médicales
+762,Autres spécialités médicales
+763,Autres spécialités médicales
+764,Autres spécialités médicales
+765,Autres spécialités médicales
+766,Autres spécialités médicales
+767,Infectiologie & immunologie
+768,Épidémiologie
+769,Santé publique & environnementale
+770,Infectiologie & immunologie
+771,Imagerie & diagnostic
+772,Santé mentale & addictions
+773,Neurologie
+774,Génétique & génomique
+775,Oncologie & hématologie
+776,"Systèmes, économie & politiques de santé"
+777,Autres spécialités médicales
+778,"Santé de la mère, de l'enfant & reproduction"
+779,Autres spécialités médicales
+780,Cardio-métabolique & rénal
+781,"Soins primaires, gériatrie & palliatif"
+782,Santé mentale & addictions
+783,Autres spécialités médicales
+784,Infectiologie & immunologie
+785,Neurologie
+786,Imagerie & diagnostic
+787,Neurologie
+788,Informatique de santé
+789,"Systèmes, économie & politiques de santé"
+790,Infectiologie & immunologie
+791,Épidémiologie
+792,Oncologie & hématologie
+793,Oncologie & hématologie
+794,Autres spécialités médicales
+795,Autres spécialités médicales
+796,Autres spécialités médicales
+797,Imagerie & diagnostic
+798,Autres spécialités médicales
+799,Autres spécialités médicales
+800,Épidémiologie
+801,Épidémiologie
+802,"Santé de la mère, de l'enfant & reproduction"
+803,Santé mentale & addictions
+804,Épidémiologie
+805,Autres spécialités médicales
+806,Autres spécialités médicales
+807,Appareil locomoteur & réadaptation
+808,Autres spécialités médicales
+809,Autres spécialités médicales
+810,Autres spécialités médicales
+811,Appareil locomoteur & réadaptation
+812,Informatique de santé
+813,Informatique de santé
+814,Santé publique & environnementale
+815,"Chirurgie, anesthésie & soins aigus"
+816,Infectiologie & immunologie
+817,Infectiologie & immunologie
+818,Infectiologie & immunologie
+819,"Santé de la mère, de l'enfant & reproduction"
+820,Cardio-métabolique & rénal
+821,Cardio-métabolique & rénal
+822,Cardio-métabolique & rénal
+823,Cardio-métabolique & rénal
+824,Autres spécialités médicales
+825,Épidémiologie
+826,Épidémiologie
+827,"Soins primaires, gériatrie & palliatif"
+828,Épidémiologie
+829,Autres spécialités médicales
+830,Imagerie & diagnostic
+831,"Chirurgie, anesthésie & soins aigus"
+832,Imagerie & diagnostic
+833,Santé mentale & addictions
+834,Neurologie
+835,Neurologie
+836,Infectiologie & immunologie
+837,Autres spécialités médicales
+838,Génétique & génomique
+839,Épidémiologie
+840,Épidémiologie
+841,Autres spécialités médicales
+842,Autres spécialités médicales
+843,Autres spécialités médicales
+844,"Santé de la mère, de l'enfant & reproduction"
+845,Oncologie & hématologie
+846,Génétique & génomique
+847,Génétique & génomique
+848,Autres spécialités médicales
+849,Autres spécialités médicales
+850,Autres spécialités médicales
+851,Autres spécialités médicales
+852,Appareil locomoteur & réadaptation
+853,Neurologie
+854,Autres spécialités médicales
+855,Informatique de santé
+856,Cardio-métabolique & rénal
+857,"Chirurgie, anesthésie & soins aigus"
+858,Informatique de santé
+859,Génétique & génomique
+860,Santé mentale & addictions
+861,Autres spécialités médicales
+862,Cardio-métabolique & rénal
+863,Autres spécialités médicales
+864,Autres spécialités médicales
+865,Autres spécialités médicales
+866,Autres spécialités médicales
+867,Imagerie & diagnostic
+868,Autres spécialités médicales
+869,Autres spécialités médicales
+870,Neurologie
+871,Neurologie
+872,Autres spécialités médicales
+873,Autres spécialités médicales
+874,Cardio-métabolique & rénal
+875,Oncologie & hématologie
+876,Autres spécialités médicales
+877,Autres spécialités médicales
+878,Génétique & génomique
+879,Informatique de santé
+880,Autres spécialités médicales
+881,Informatique de santé
+882,Santé mentale & addictions
+883,Oncologie & hématologie
+884,Infectiologie & immunologie
+885,Autres spécialités médicales
+886,"Chirurgie, anesthésie & soins aigus"
+887,Autres spécialités médicales
+888,Autres spécialités médicales
+889,"Systèmes, économie & politiques de santé"
+890,Autres spécialités médicales
+891,Autres spécialités médicales
+892,"Santé de la mère, de l'enfant & reproduction"
+893,Santé mentale & addictions
+894,Santé publique & environnementale
+895,Santé publique & environnementale
+896,Épidémiologie
+897,Imagerie & diagnostic
+898,Imagerie & diagnostic
+899,Autres spécialités médicales
+900,Épidémiologie
+901,Autres spécialités médicales
+902,Neurologie
+903,Autres spécialités médicales
+904,Autres spécialités médicales
+905,"Systèmes, économie & politiques de santé"
+906,"Santé de la mère, de l'enfant & reproduction"
+907,Infectiologie & immunologie
+908,Autres spécialités médicales
+909,Autres spécialités médicales
+910,Autres spécialités médicales
+911,Infectiologie & immunologie
+912,Autres spécialités médicales
+913,Informatique de santé
+914,Autres spécialités médicales
+915,Autres spécialités médicales
+916,Autres spécialités médicales
+917,Génétique & génomique
+918,Neurologie
+919,Autres spécialités médicales
+920,Épidémiologie
+921,Santé publique & environnementale
+922,Autres spécialités médicales
+923,Autres spécialités médicales
+924,Santé mentale & addictions
+925,Épidémiologie
+926,Santé mentale & addictions
+927,Santé publique & environnementale
+928,Autres spécialités médicales
+929,Appareil locomoteur & réadaptation
+930,Neurologie
+931,Cardio-métabolique & rénal
+932,Autres spécialités médicales
+933,Infectiologie & immunologie
+934,Autres spécialités médicales
+935,Autres spécialités médicales
+936,Santé mentale & addictions
+937,Autres spécialités médicales
+938,"Systèmes, économie & politiques de santé"
+939,Autres spécialités médicales
+940,"Chirurgie, anesthésie & soins aigus"
+941,"Systèmes, économie & politiques de santé"
+942,Santé publique & environnementale
+943,Génétique & génomique
+944,Autres spécialités médicales
+945,Autres spécialités médicales
+946,Cardio-métabolique & rénal
+947,"Chirurgie, anesthésie & soins aigus"
+948,Autres spécialités médicales
+949,Autres spécialités médicales
+950,Épidémiologie
+951,Cardio-métabolique & rénal
+952,Cardio-métabolique & rénal
+953,Autres spécialités médicales
+954,Autres spécialités médicales
+955,Santé publique & environnementale
+956,Autres spécialités médicales
+957,Santé publique & environnementale
+958,Imagerie & diagnostic
+959,Autres spécialités médicales
+960,Santé publique & environnementale
+961,Autres spécialités médicales
+962,Infectiologie & immunologie
+963,Imagerie & diagnostic
+964,Autres spécialités médicales
+965,Autres spécialités médicales
+966,Autres spécialités médicales
+967,Génétique & génomique
+968,Oncologie & hématologie
+969,Autres spécialités médicales
+970,Autres spécialités médicales
+971,Informatique de santé
+972,Santé publique & environnementale
+973,Autres spécialités médicales
+974,Santé mentale & addictions
+975,Autres spécialités médicales
+976,Neurologie
+977,Appareil locomoteur & réadaptation
+978,Cardio-métabolique & rénal
+979,Autres spécialités médicales
+980,Autres spécialités médicales
+981,Génétique & génomique
+982,Informatique de santé
+983,Épidémiologie
+984,Autres spécialités médicales
+985,Santé mentale & addictions
+986,Autres spécialités médicales
+987,Santé publique & environnementale
+988,Autres spécialités médicales
+989,Autres spécialités médicales
+990,Autres spécialités médicales
+991,"Systèmes, économie & politiques de santé"
+992,"Santé de la mère, de l'enfant & reproduction"
+993,Autres spécialités médicales
+994,Autres spécialités médicales
+995,"Santé de la mère, de l'enfant & reproduction"
+996,Informatique de santé
+997,Autres spécialités médicales
+998,Cardio-métabolique & rénal
+999,Autres spécialités médicales
+1000,Infectiologie & immunologie
+1001,Infectiologie & immunologie
+1002,Autres spécialités médicales
+1003,Santé mentale & addictions
+1004,Santé mentale & addictions
+1005,Santé mentale & addictions
+1006,Santé mentale & addictions
+1007,"Chirurgie, anesthésie & soins aigus"
+1008,Imagerie & diagnostic
+1009,Autres spécialités médicales
+1010,"Chirurgie, anesthésie & soins aigus"
+1011,Autres spécialités médicales
+1012,Neurologie
+1013,Neurologie
+1014,Santé mentale & addictions
+1015,"Santé de la mère, de l'enfant & reproduction"
+1016,"Systèmes, économie & politiques de santé"
+1017,Informatique de santé
+1018,Génétique & génomique
+1019,Autres spécialités médicales
+1020,"Systèmes, économie & politiques de santé"
+1021,Santé publique & environnementale
+1022,Autres spécialités médicales
+1023,Autres spécialités médicales
+1024,Oncologie & hématologie
+1025,Autres spécialités médicales
+1026,Autres spécialités médicales
+1027,Épidémiologie
+1028,Épidémiologie
+1029,Autres spécialités médicales
+1030,Autres spécialités médicales
+1031,Santé publique & environnementale
+1032,Épidémiologie
+1033,Oncologie & hématologie
+1034,Santé publique & environnementale
+1035,Infectiologie & immunologie
+1036,Autres spécialités médicales
+1037,Santé mentale & addictions
+1038,Autres spécialités médicales
+1039,Santé mentale & addictions
+1040,Santé mentale & addictions
+1041,Autres spécialités médicales
+1042,Autres spécialités médicales
+1043,Autres spécialités médicales
+1044,Génétique & génomique
+1045,Autres spécialités médicales
+1046,Santé publique & environnementale
+1047,Épidémiologie
+1048,"Santé de la mère, de l'enfant & reproduction"
+1049,Santé mentale & addictions
+1050,Neurologie
+1051,Cardio-métabolique & rénal
+1052,Autres spécialités médicales
+1053,"Soins primaires, gériatrie & palliatif"
+1054,Neurologie
+1055,Neurologie
+1056,Autres spécialités médicales
+1057,Autres spécialités médicales
+1058,Autres spécialités médicales
+1059,Autres spécialités médicales
+1060,Appareil locomoteur & réadaptation
+1061,"Systèmes, économie & politiques de santé"
+1062,Oncologie & hématologie
+1063,Oncologie & hématologie
+1064,Autres spécialités médicales
+1065,Autres spécialités médicales
+1066,Santé mentale & addictions
+1067,Neurologie
+1068,Imagerie & diagnostic
+1069,Épidémiologie
+1070,Autres spécialités médicales
+1071,Autres spécialités médicales
+1072,Informatique de santé
+1073,Autres spécialités médicales
+1074,Infectiologie & immunologie
+1075,Cardio-métabolique & rénal
+1076,Autres spécialités médicales
+1077,Autres spécialités médicales
+1078,Autres spécialités médicales
+1079,Santé publique & environnementale
+1080,Santé publique & environnementale
+1081,"Systèmes, économie & politiques de santé"
+1082,"Santé de la mère, de l'enfant & reproduction"
+1083,Génétique & génomique
+1084,Autres spécialités médicales
+1085,Autres spécialités médicales
+1086,Autres spécialités médicales
+1087,Autres spécialités médicales
+1088,Autres spécialités médicales
+1089,Santé mentale & addictions
+1090,Génétique & génomique
+1091,Infectiologie & immunologie
+1092,Santé publique & environnementale
+1093,Épidémiologie
+1094,Autres spécialités médicales
+1095,"Chirurgie, anesthésie & soins aigus"
+1096,Épidémiologie
+1097,Autres spécialités médicales
+1098,Appareil locomoteur & réadaptation
+1099,Autres spécialités médicales
+1100,Épidémiologie
+1101,Santé mentale & addictions
+1102,Santé mentale & addictions
+1103,Neurologie
+1104,Infectiologie & immunologie
+1105,Neurologie
+1106,Neurologie
+1107,Santé publique & environnementale
+1108,Santé mentale & addictions
+1109,Autres spécialités médicales
+1110,Cardio-métabolique & rénal
+1111,"Systèmes, économie & politiques de santé"
+1112,Épidémiologie
+1113,Santé publique & environnementale
+1114,Autres spécialités médicales
+1115,Épidémiologie
+1116,Autres spécialités médicales
+1117,Autres spécialités médicales
+1118,Neurologie
+1119,Autres spécialités médicales
+1120,Oncologie & hématologie
+1121,"Systèmes, économie & politiques de santé"
+1122,Neurologie
+1123,Autres spécialités médicales
+1124,Informatique de santé
+1125,"Chirurgie, anesthésie & soins aigus"
+1126,"Systèmes, économie & politiques de santé"
+1127,Oncologie & hématologie
+1128,Infectiologie & immunologie
+1129,"Systèmes, économie & politiques de santé"
+1130,Épidémiologie
+1131,Autres spécialités médicales
+1132,Épidémiologie
+1133,Imagerie & diagnostic
+1134,Autres spécialités médicales
+1135,Appareil locomoteur & réadaptation
+1136,Neurologie
+1137,Autres spécialités médicales
+1138,Santé publique & environnementale
+1139,Autres spécialités médicales
+1140,Informatique de santé
+1141,Santé publique & environnementale
+1142,Cardio-métabolique & rénal
+1143,Autres spécialités médicales
+1144,Épidémiologie
+1145,Cardio-métabolique & rénal
+1146,Autres spécialités médicales
+1147,"Santé de la mère, de l'enfant & reproduction"
+1148,Cardio-métabolique & rénal
+1149,Autres spécialités médicales
+1150,Autres spécialités médicales
+1151,Autres spécialités médicales
+1152,Autres spécialités médicales
+1153,Santé mentale & addictions
+1154,"Santé de la mère, de l'enfant & reproduction"
+1155,Imagerie & diagnostic
+1156,Imagerie & diagnostic
+1157,Épidémiologie
+1158,"Chirurgie, anesthésie & soins aigus"
+1159,Santé mentale & addictions
+1160,Informatique de santé
+1161,Génétique & génomique
+1162,Autres spécialités médicales
+1163,Infectiologie & immunologie
+1164,Oncologie & hématologie
+1165,Autres spécialités médicales
+1166,"Santé de la mère, de l'enfant & reproduction"
+1167,Cardio-métabolique & rénal
+1168,Informatique de santé
+1169,Autres spécialités médicales
+1170,Santé mentale & addictions
+1171,Autres spécialités médicales
+1172,Cardio-métabolique & rénal
+1173,Autres spécialités médicales
+1174,Génétique & génomique
+1175,Génétique & génomique
+1176,Infectiologie & immunologie
+1177,Santé mentale & addictions
+1178,Épidémiologie
+1179,Cardio-métabolique & rénal
+1180,Cardio-métabolique & rénal
+1181,Cardio-métabolique & rénal
+1182,Autres spécialités médicales
+1183,Épidémiologie
+1184,Autres spécialités médicales
+1185,Autres spécialités médicales
+1186,Autres spécialités médicales
+1187,Épidémiologie
+1188,Génétique & génomique
+1189,Autres spécialités médicales
+1190,Autres spécialités médicales
+1191,Autres spécialités médicales
+1192,Autres spécialités médicales
+1193,Santé mentale & addictions
+1194,Santé mentale & addictions
+1195,Autres spécialités médicales
+1196,Cardio-métabolique & rénal
+1197,Appareil locomoteur & réadaptation
+1198,Autres spécialités médicales
+1199,Infectiologie & immunologie
+1200,Cardio-métabolique & rénal
+1201,Autres spécialités médicales
+1202,Neurologie
+1203,Oncologie & hématologie
+1204,Autres spécialités médicales
+1205,Génétique & génomique
+1206,Génétique & génomique
+1207,Génétique & génomique
+1208,Autres spécialités médicales
+1209,"Systèmes, économie & politiques de santé"
+1210,Informatique de santé
+1211,Informatique de santé
+1212,Santé publique & environnementale
+1213,Autres spécialités médicales
+1214,Autres spécialités médicales
+1215,Épidémiologie
+1216,Santé publique & environnementale
+1217,"Chirurgie, anesthésie & soins aigus"
+1218,Autres spécialités médicales
+1219,Autres spécialités médicales
+1220,Autres spécialités médicales
+1221,Santé mentale & addictions
+1222,Imagerie & diagnostic
+1223,Imagerie & diagnostic
+1224,Autres spécialités médicales
+1225,Santé publique & environnementale
+1226,Épidémiologie
+1227,"Santé de la mère, de l'enfant & reproduction"
+1228,Autres spécialités médicales
+1229,Oncologie & hématologie
+1230,Appareil locomoteur & réadaptation
+1231,Génétique & génomique
+1232,Autres spécialités médicales
+1233,Autres spécialités médicales
+1234,Autres spécialités médicales
+1235,"Chirurgie, anesthésie & soins aigus"
+1236,Santé mentale & addictions
+1237,Autres spécialités médicales
+1238,Santé publique & environnementale
+1239,"Chirurgie, anesthésie & soins aigus"
+1240,Autres spécialités médicales
+1241,Autres spécialités médicales
+1242,Appareil locomoteur & réadaptation
+1243,Épidémiologie
+1244,Infectiologie & immunologie
+1245,Cardio-métabolique & rénal
+1246,Santé publique & environnementale
+1247,Santé publique & environnementale
+1248,"Soins primaires, gériatrie & palliatif"
+1249,Autres spécialités médicales
+1250,Autres spécialités médicales
+1251,Autres spécialités médicales
+1252,Informatique de santé
+1253,Informatique de santé
+1254,Infectiologie & immunologie
+1255,Épidémiologie
+1256,Infectiologie & immunologie
+1257,"Chirurgie, anesthésie & soins aigus"
+1258,Cardio-métabolique & rénal
+1259,Infectiologie & immunologie
+1260,"Soins primaires, gériatrie & palliatif"
+1261,"Systèmes, économie & politiques de santé"
+1262,Imagerie & diagnostic
+1263,"Chirurgie, anesthésie & soins aigus"
+1264,Neurologie
+1265,Neurologie
+1266,Neurologie
+1267,Oncologie & hématologie
+1268,Oncologie & hématologie
+1269,Informatique de santé
+1270,Autres spécialités médicales
+1271,Autres spécialités médicales
+1272,Autres spécialités médicales
+1273,Santé mentale & addictions
+1274,Autres spécialités médicales
+1275,Cardio-métabolique & rénal
+1276,Neurologie
+1277,Autres spécialités médicales
+1278,Autres spécialités médicales
+1279,Santé publique & environnementale
+1280,Épidémiologie
+1281,Autres spécialités médicales
+1282,Santé publique & environnementale
+1283,Épidémiologie
+1284,Autres spécialités médicales
+1285,"Systèmes, économie & politiques de santé"
+1286,Neurologie
+1287,Santé mentale & addictions
+1288,Neurologie
+1289,Imagerie & diagnostic
+1290,Santé mentale & addictions
+1291,"Soins primaires, gériatrie & palliatif"
+1292,Autres spécialités médicales
+1293,Santé publique & environnementale
+1294,Autres spécialités médicales
+1295,Oncologie & hématologie
+1296,Appareil locomoteur & réadaptation
+1297,Autres spécialités médicales
+1298,Génétique & génomique
+1299,Informatique de santé
+1300,Informatique de santé
+1301,Informatique de santé
+1302,Autres spécialités médicales
+1303,Santé mentale & addictions
+1304,"Systèmes, économie & politiques de santé"
+1305,Autres spécialités médicales
+1306,"Soins primaires, gériatrie & palliatif"
+1307,Informatique de santé
+1308,Appareil locomoteur & réadaptation
+1309,Imagerie & diagnostic
+1310,Autres spécialités médicales
+1311,Épidémiologie
+1312,Imagerie & diagnostic
+1313,Autres spécialités médicales
+1314,"Systèmes, économie & politiques de santé"
+1315,Neurologie
+1316,Santé publique & environnementale
+1317,Génétique & génomique
+1318,Informatique de santé
+1319,Autres spécialités médicales
+1320,Génétique & génomique
+1321,Autres spécialités médicales
+1322,Neurologie
+1323,Autres spécialités médicales
+1324,Autres spécialités médicales
+1325,Neurologie
+1326,Infectiologie & immunologie
+1327,Autres spécialités médicales
+1328,Infectiologie & immunologie
+1329,Cardio-métabolique & rénal
+1330,Génétique & génomique
+1331,Autres spécialités médicales
+1332,Imagerie & diagnostic
+1333,"Santé de la mère, de l'enfant & reproduction"
+1334,"Chirurgie, anesthésie & soins aigus"
+1335,Neurologie
+1336,Autres spécialités médicales
+1337,Autres spécialités médicales
+1338,Informatique de santé
+1339,Autres spécialités médicales
+1340,Cardio-métabolique & rénal
+1341,Santé mentale & addictions
+1342,Santé mentale & addictions
+1343,Autres spécialités médicales
+1344,Santé publique & environnementale
+1345,Imagerie & diagnostic
+1346,Autres spécialités médicales
+1347,Autres spécialités médicales
+1348,Autres spécialités médicales
+1349,Oncologie & hématologie
+1350,Autres spécialités médicales
+1351,Autres spécialités médicales
+1352,Santé publique & environnementale
+1353,Autres spécialités médicales
+1354,Autres spécialités médicales
+1355,Santé mentale & addictions
+1356,Épidémiologie
+1357,Neurologie
+1358,Autres spécialités médicales
+1359,Appareil locomoteur & réadaptation
+1360,Autres spécialités médicales
+1361,Autres spécialités médicales
+1362,"Chirurgie, anesthésie & soins aigus"
+1363,Cardio-métabolique & rénal
+1364,Infectiologie & immunologie
+1365,Autres spécialités médicales
+1366,Santé mentale & addictions
+1367,Infectiologie & immunologie
+1368,"Systèmes, économie & politiques de santé"
+1369,Neurologie
+1370,Cardio-métabolique & rénal
+1371,Neurologie
+1372,Génétique & génomique
+1373,Oncologie & hématologie
+1374,Oncologie & hématologie
+1375,Autres spécialités médicales
+1376,Autres spécialités médicales
+1377,Épidémiologie
+1378,Infectiologie & immunologie
+1379,Cardio-métabolique & rénal
+1380,Autres spécialités médicales
+1381,"Soins primaires, gériatrie & palliatif"
+1382,Santé mentale & addictions
+1383,Appareil locomoteur & réadaptation
+1384,Infectiologie & immunologie
+1385,Autres spécialités médicales
+1386,Autres spécialités médicales
+1387,Appareil locomoteur & réadaptation
+1388,"Systèmes, économie & politiques de santé"
+1389,Autres spécialités médicales
+1390,Autres spécialités médicales
+1391,Autres spécialités médicales
+1392,Autres spécialités médicales
+1393,"Systèmes, économie & politiques de santé"
+1394,"Systèmes, économie & politiques de santé"
+1395,Autres spécialités médicales
+1396,Autres spécialités médicales
+1397,Autres spécialités médicales
+1398,Appareil locomoteur & réadaptation
+1399,Santé publique & environnementale
+1400,"Systèmes, économie & politiques de santé"
+1401,Neurologie
+1402,Autres spécialités médicales
+1403,Informatique de santé
+1404,Cardio-métabolique & rénal
+1405,Appareil locomoteur & réadaptation
+1406,"Chirurgie, anesthésie & soins aigus"
+1407,Autres spécialités médicales
+1408,Cardio-métabolique & rénal
+1409,"Systèmes, économie & politiques de santé"
+1410,Épidémiologie
+1411,Épidémiologie
+1412,Génétique & génomique
+1413,Autres spécialités médicales
+1414,Santé publique & environnementale
+1415,Autres spécialités médicales
+1416,Santé publique & environnementale
+1417,Santé publique & environnementale
+1418,Autres spécialités médicales
+1419,Épidémiologie
+1420,Épidémiologie
+1421,Neurologie
+1422,Autres spécialités médicales
+1423,"Systèmes, économie & politiques de santé"
+1424,Informatique de santé
+1425,Autres spécialités médicales
+1426,Autres spécialités médicales
+1427,Autres spécialités médicales
+1428,Autres spécialités médicales
+1429,Autres spécialités médicales
+1430,Autres spécialités médicales
+1431,Autres spécialités médicales
+1432,Autres spécialités médicales
+1433,Santé publique & environnementale
+1434,Santé publique & environnementale
+1435,Informatique de santé
+1436,Neurologie
+1437,Neurologie
+1438,Oncologie & hématologie
+1439,Infectiologie & immunologie
+1440,"Santé de la mère, de l'enfant & reproduction"
+1441,Autres spécialités médicales
+1442,Autres spécialités médicales
+1443,Autres spécialités médicales
+1444,Santé publique & environnementale
+1445,Autres spécialités médicales
+1446,Autres spécialités médicales
+1447,Cardio-métabolique & rénal
+1448,Cardio-métabolique & rénal
+1449,Autres spécialités médicales
+1450,Autres spécialités médicales
+1451,Appareil locomoteur & réadaptation
+1452,Appareil locomoteur & réadaptation
+1453,Imagerie & diagnostic
+1454,Autres spécialités médicales
+1455,Autres spécialités médicales
+1456,"Santé de la mère, de l'enfant & reproduction"
+1457,"Soins primaires, gériatrie & palliatif"
+1458,Génétique & génomique
+1459,"Soins primaires, gériatrie & palliatif"
+1460,Appareil locomoteur & réadaptation
+1461,Santé publique & environnementale
+1462,Cardio-métabolique & rénal
+1463,Santé publique & environnementale
+1464,"Santé de la mère, de l'enfant & reproduction"
+1465,"Santé de la mère, de l'enfant & reproduction"
+1466,"Santé de la mère, de l'enfant & reproduction"
+1467,Autres spécialités médicales
+1468,"Systèmes, économie & politiques de santé"
+1469,Autres spécialités médicales
+1470,"Systèmes, économie & politiques de santé"
+1471,"Systèmes, économie & politiques de santé"
+1472,Cardio-métabolique & rénal
+1473,Autres spécialités médicales
+1474,"Santé de la mère, de l'enfant & reproduction"
+1475,Autres spécialités médicales
+1476,Santé publique & environnementale
+1477,"Santé de la mère, de l'enfant & reproduction"
+1478,Appareil locomoteur & réadaptation
+1479,Appareil locomoteur & réadaptation
+1480,Santé publique & environnementale
+1481,Autres spécialités médicales
+1482,Autres spécialités médicales
+1483,Santé publique & environnementale
+1484,Appareil locomoteur & réadaptation
+1485,Santé publique & environnementale
+1486,Autres spécialités médicales
+1487,Santé mentale & addictions
+1488,Informatique de santé
+1489,Oncologie & hématologie
+1490,Oncologie & hématologie
+1491,Autres spécialités médicales
+1492,Autres spécialités médicales
+1493,Neurologie
+1494,Autres spécialités médicales
+1495,"Chirurgie, anesthésie & soins aigus"
+1496,Cardio-métabolique & rénal
+1497,"Chirurgie, anesthésie & soins aigus"
+1498,Infectiologie & immunologie
+1499,Appareil locomoteur & réadaptation
+1500,Infectiologie & immunologie
+1501,Santé publique & environnementale
+1502,Autres spécialités médicales
+1503,Autres spécialités médicales
+1504,Autres spécialités médicales
+1505,Autres spécialités médicales
+1506,Autres spécialités médicales
+1507,Autres spécialités médicales
+1508,Oncologie & hématologie
+1509,Autres spécialités médicales
+1510,Autres spécialités médicales
+1511,Appareil locomoteur & réadaptation
+1512,Autres spécialités médicales
+1513,Infectiologie & immunologie
+1514,Infectiologie & immunologie
+1515,Autres spécialités médicales
+1516,Autres spécialités médicales
+1517,Infectiologie & immunologie
+1518,Autres spécialités médicales
+1519,"Chirurgie, anesthésie & soins aigus"
+1520,Infectiologie & immunologie
+1521,Autres spécialités médicales
+1522,"Systèmes, économie & politiques de santé"
+1523,"Soins primaires, gériatrie & palliatif"
+1524,Neurologie
+1525,Autres spécialités médicales
+1526,Neurologie
+1527,"Chirurgie, anesthésie & soins aigus"
+1528,Autres spécialités médicales
+1529,Cardio-métabolique & rénal
+1530,Cardio-métabolique & rénal
+1531,Cardio-métabolique & rénal
+1532,Cardio-métabolique & rénal
+1533,Informatique de santé
+1534,Autres spécialités médicales
+1535,"Soins primaires, gériatrie & palliatif"
+1536,Cardio-métabolique & rénal
+1537,Autres spécialités médicales
+1538,Santé mentale & addictions
+1539,Santé mentale & addictions
+1540,Imagerie & diagnostic
+1541,"Chirurgie, anesthésie & soins aigus"
+1542,Autres spécialités médicales
+1543,Neurologie
+1544,Génétique & génomique
+1545,Cardio-métabolique & rénal
+1546,Informatique de santé
+1547,Informatique de santé
+1548,Autres spécialités médicales
+1549,Infectiologie & immunologie
+1550,Infectiologie & immunologie
+1551,Infectiologie & immunologie
+1552,Épidémiologie
+1553,Épidémiologie
+1554,Autres spécialités médicales
+1555,Épidémiologie
+1556,Épidémiologie
+1557,Autres spécialités médicales
+1558,Santé mentale & addictions
+1559,Neurologie
+1560,Génétique & génomique
+1561,Épidémiologie
+1562,Épidémiologie
+1563,Autres spécialités médicales
+1564,Autres spécialités médicales
+1565,"Systèmes, économie & politiques de santé"
+1566,Épidémiologie
+1567,Épidémiologie
+1568,Neurologie
+1569,Autres spécialités médicales
+1570,Oncologie & hématologie
+1571,Informatique de santé
+1572,Informatique de santé
+1573,Génétique & génomique
+1574,Autres spécialités médicales
+1575,"Soins primaires, gériatrie & palliatif"
+1576,Oncologie & hématologie
+1577,Santé mentale & addictions
+1578,Neurologie
+1579,Oncologie & hématologie
+1580,Santé mentale & addictions
+1581,Infectiologie & immunologie
+1582,Imagerie & diagnostic
+1583,Épidémiologie
+1584,Autres spécialités médicales
+1585,Neurologie
+1586,Infectiologie & immunologie
+1587,Autres spécialités médicales
+1588,"Santé de la mère, de l'enfant & reproduction"
+1589,Autres spécialités médicales
+1590,Imagerie & diagnostic
+1591,Imagerie & diagnostic
+1592,Épidémiologie
+1593,Neurologie
+1594,Autres spécialités médicales
+1595,Neurologie
+1596,Santé publique & environnementale
+1597,Autres spécialités médicales
+1598,Appareil locomoteur & réadaptation
+1599,Génétique & génomique
+1600,Infectiologie & immunologie
+1601,Autres spécialités médicales
+1602,Cardio-métabolique & rénal
+1603,Appareil locomoteur & réadaptation
+1604,Santé publique & environnementale
+1605,"Santé de la mère, de l'enfant & reproduction"
+1606,Appareil locomoteur & réadaptation
+1607,Autres spécialités médicales
+1608,Infectiologie & immunologie
+1609,"Systèmes, économie & politiques de santé"
+1610,Oncologie & hématologie
+1611,Autres spécialités médicales
+1612,Autres spécialités médicales
+1613,Autres spécialités médicales
+1614,"Chirurgie, anesthésie & soins aigus"
+1615,Épidémiologie
+1616,Génétique & génomique
+1617,Épidémiologie
+1618,Autres spécialités médicales
+1619,Santé publique & environnementale
+1620,"Soins primaires, gériatrie & palliatif"
+1621,Neurologie
+1622,Autres spécialités médicales
+1623,Cardio-métabolique & rénal
+1624,Autres spécialités médicales
+1625,"Soins primaires, gériatrie & palliatif"
+1626,Autres spécialités médicales
+1627,Génétique & génomique
+1628,Autres spécialités médicales
+1629,Autres spécialités médicales
+1630,Informatique de santé
+1631,Informatique de santé
+1632,Autres spécialités médicales
+1633,Infectiologie & immunologie
+1634,Infectiologie & immunologie
+1635,Infectiologie & immunologie
+1636,Autres spécialités médicales
+1637,Santé publique & environnementale
+1638,Épidémiologie
+1639,Santé mentale & addictions
+1640,Santé publique & environnementale
+1641,Santé publique & environnementale
+1642,Santé publique & environnementale
+1643,Imagerie & diagnostic
+1644,Imagerie & diagnostic
+1645,Appareil locomoteur & réadaptation
+1646,Appareil locomoteur & réadaptation
+1647,Appareil locomoteur & réadaptation
+1648,Autres spécialités médicales
+1649,"Santé de la mère, de l'enfant & reproduction"
+1650,Autres spécialités médicales
+1651,Neurologie
+1652,Autres spécialités médicales
+1653,Cardio-métabolique & rénal
+1654,Santé publique & environnementale
+1655,Autres spécialités médicales
+1656,Autres spécialités médicales
+1657,Autres spécialités médicales
+1658,Infectiologie & immunologie
+1659,Infectiologie & immunologie
+1660,Infectiologie & immunologie
+1661,"Chirurgie, anesthésie & soins aigus"
+1662,Autres spécialités médicales
+1663,Cardio-métabolique & rénal
+1664,Cardio-métabolique & rénal
+1665,Cardio-métabolique & rénal
+1666,Autres spécialités médicales
+1667,Autres spécialités médicales
+1668,Autres spécialités médicales
+1669,Cardio-métabolique & rénal
+1670,"Santé de la mère, de l'enfant & reproduction"
+1671,Santé publique & environnementale
+1672,Oncologie & hématologie
+1673,Santé mentale & addictions
+1674,Oncologie & hématologie
+1675,Autres spécialités médicales
+1676,Santé publique & environnementale
+1677,Autres spécialités médicales
+1678,Autres spécialités médicales
+1679,Neurologie
+1680,"Santé de la mère, de l'enfant & reproduction"
+1681,Informatique de santé
+1682,Infectiologie & immunologie
+1683,Épidémiologie
+1684,Cardio-métabolique & rénal
+1685,Épidémiologie
+1686,"Santé de la mère, de l'enfant & reproduction"
+1687,Autres spécialités médicales
+1688,Santé mentale & addictions
+1689,Autres spécialités médicales
+1690,Informatique de santé
+1691,Santé mentale & addictions
+1692,Santé mentale & addictions
+1693,Autres spécialités médicales
+1694,Oncologie & hématologie
+1695,Neurologie
+1696,Imagerie & diagnostic
+1697,Autres spécialités médicales
+1698,Oncologie & hématologie
+1699,"Santé de la mère, de l'enfant & reproduction"
+1700,Génétique & génomique
+1701,Autres spécialités médicales
+1702,Oncologie & hématologie
+1703,Génétique & génomique
+1704,Infectiologie & immunologie
+1705,Cardio-métabolique & rénal
+1706,Autres spécialités médicales
+1707,Infectiologie & immunologie
+1708,Autres spécialités médicales
+1709,Épidémiologie
+1710,Cardio-métabolique & rénal
+1711,Autres spécialités médicales
+1712,"Santé de la mère, de l'enfant & reproduction"
+1713,Appareil locomoteur & réadaptation
+1714,Autres spécialités médicales
+1715,Autres spécialités médicales
+1716,"Santé de la mère, de l'enfant & reproduction"
+1717,"Santé de la mère, de l'enfant & reproduction"
+1718,Santé publique & environnementale
+1719,"Chirurgie, anesthésie & soins aigus"
+1720,Autres spécialités médicales
+1721,Autres spécialités médicales
+1722,Épidémiologie
+1723,Autres spécialités médicales
+1724,Santé publique & environnementale
+1725,Appareil locomoteur & réadaptation
+1726,Santé mentale & addictions
+1727,Infectiologie & immunologie
+1728,Génétique & génomique
+1729,Autres spécialités médicales
+1730,"Santé de la mère, de l'enfant & reproduction"
+1731,Infectiologie & immunologie
+1732,Santé mentale & addictions
+1733,Autres spécialités médicales
+1734,Informatique de santé
+1735,Imagerie & diagnostic
+1736,Santé mentale & addictions
+1737,Santé mentale & addictions
+1738,Neurologie
+1739,Autres spécialités médicales
+1740,Cardio-métabolique & rénal
+1741,Autres spécialités médicales
+1742,Génétique & génomique
+1743,"Chirurgie, anesthésie & soins aigus"
+1744,Santé mentale & addictions
+1745,Génétique & génomique
+1746,Infectiologie & immunologie
+1747,Autres spécialités médicales
+1748,Autres spécialités médicales
+1749,Cardio-métabolique & rénal
+1750,Santé publique & environnementale
+1751,Autres spécialités médicales
+1752,Cardio-métabolique & rénal
+1753,Autres spécialités médicales
+1754,Épidémiologie
+1755,Autres spécialités médicales
+1756,Épidémiologie
+1757,Autres spécialités médicales
+1758,Autres spécialités médicales
+1759,Épidémiologie
+1760,Santé mentale & addictions
+1761,Autres spécialités médicales
+1762,Autres spécialités médicales
+1763,Appareil locomoteur & réadaptation
+1764,Santé mentale & addictions
+1765,Imagerie & diagnostic
+1766,Autres spécialités médicales
+1767,Autres spécialités médicales
+1768,Imagerie & diagnostic
+1769,Autres spécialités médicales
+1770,"Santé de la mère, de l'enfant & reproduction"
+1771,"Chirurgie, anesthésie & soins aigus"
+1772,Autres spécialités médicales
+1773,Génétique & génomique
+1774,Génétique & génomique
+1775,Cardio-métabolique & rénal
+1776,Santé mentale & addictions
+1777,Autres spécialités médicales
+1778,Appareil locomoteur & réadaptation
+1779,Santé mentale & addictions
+1780,Neurologie
+1781,Infectiologie & immunologie
+1782,Autres spécialités médicales
+1783,Autres spécialités médicales
+1784,Infectiologie & immunologie
+1785,Autres spécialités médicales
+1786,Autres spécialités médicales
+1787,Autres spécialités médicales
+1788,Autres spécialités médicales
+1789,Autres spécialités médicales
+1790,Informatique de santé
+1791,Infectiologie & immunologie
+1792,Épidémiologie
+1793,"Chirurgie, anesthésie & soins aigus"
+1794,Autres spécialités médicales
+1795,Appareil locomoteur & réadaptation
+1796,Neurologie
+1797,Autres spécialités médicales
+1798,Autres spécialités médicales
+1799,Autres spécialités médicales
+1800,Autres spécialités médicales
+1801,Autres spécialités médicales
+1802,Autres spécialités médicales
+1803,Autres spécialités médicales
+1804,Autres spécialités médicales
+1805,Neurologie
+1806,Génétique & génomique
+1807,Informatique de santé
+1808,Autres spécialités médicales
+1809,Autres spécialités médicales
+1810,Autres spécialités médicales
+1811,Autres spécialités médicales
+1812,Autres spécialités médicales
+1813,Imagerie & diagnostic
+1814,Autres spécialités médicales
+1815,"Santé de la mère, de l'enfant & reproduction"
+1816,Épidémiologie
+1817,Autres spécialités médicales
+1818,Autres spécialités médicales
+1819,Autres spécialités médicales
+1820,Infectiologie & immunologie
+1821,Infectiologie & immunologie
+1822,"Systèmes, économie & politiques de santé"
+1823,Santé mentale & addictions
+1824,Santé mentale & addictions
+1825,Autres spécialités médicales
+1826,Épidémiologie
+1827,Autres spécialités médicales
+1828,Santé publique & environnementale
+1829,Autres spécialités médicales
+1830,Autres spécialités médicales
+1831,Autres spécialités médicales
+1832,Imagerie & diagnostic
+1833,Neurologie
+1834,Autres spécialités médicales
+1835,Infectiologie & immunologie
+1836,Oncologie & hématologie
+1837,Autres spécialités médicales
+1838,Autres spécialités médicales
+1839,Cardio-métabolique & rénal
+1840,Oncologie & hématologie
+1841,Autres spécialités médicales
+1842,Autres spécialités médicales
+1843,Génétique & génomique
+1844,Autres spécialités médicales
+1845,Génétique & génomique
+1846,Neurologie
+1847,Infectiologie & immunologie
+1848,Infectiologie & immunologie
+1849,Autres spécialités médicales
+1850,Infectiologie & immunologie
+1851,"Chirurgie, anesthésie & soins aigus"
+1852,"Chirurgie, anesthésie & soins aigus"
+1853,Autres spécialités médicales
+1854,"Santé de la mère, de l'enfant & reproduction"
+1855,Épidémiologie
+1856,Épidémiologie
+1857,Santé mentale & addictions
+1858,Santé mentale & addictions
+1859,Imagerie & diagnostic
+1860,Imagerie & diagnostic
+1861,Autres spécialités médicales
+1862,Neurologie
+1863,Neurologie
+1864,Neurologie
+1865,"Santé de la mère, de l'enfant & reproduction"
+1866,Autres spécialités médicales
+1867,Autres spécialités médicales
+1868,Génétique & génomique
+1869,Génétique & génomique
+1870,"Santé de la mère, de l'enfant & reproduction"
+1871,Autres spécialités médicales
+1872,Autres spécialités médicales
+1873,Autres spécialités médicales
+1874,Autres spécialités médicales
+1875,Autres spécialités médicales
+1876,Autres spécialités médicales
+1877,Autres spécialités médicales
+1878,Autres spécialités médicales
+1879,Autres spécialités médicales
+1880,Autres spécialités médicales
+1881,Autres spécialités médicales
+1882,Autres spécialités médicales
+1883,Autres spécialités médicales
+1884,Autres spécialités médicales
+1885,Autres spécialités médicales
+1886,Autres spécialités médicales
+1887,Autres spécialités médicales
+1888,Autres spécialités médicales
+1889,Autres spécialités médicales
+1890,Autres spécialités médicales
+1891,Autres spécialités médicales
+1892,Autres spécialités médicales
+1893,Autres spécialités médicales
+1894,Autres spécialités médicales
+1895,Autres spécialités médicales
+1896,Autres spécialités médicales
+1897,Autres spécialités médicales
+1898,Autres spécialités médicales
+1899,Autres spécialités médicales
+1900,Autres spécialités médicales
+1901,Autres spécialités médicales
+1902,Autres spécialités médicales
+1903,Autres spécialités médicales
+1904,Autres spécialités médicales
+1905,Autres spécialités médicales
+1906,Autres spécialités médicales
+1907,Autres spécialités médicales
+1908,Autres spécialités médicales
+1909,Autres spécialités médicales
+1910,Autres spécialités médicales
+1911,Autres spécialités médicales
+1912,Autres spécialités médicales
+1913,Autres spécialités médicales
+1914,Autres spécialités médicales
+1915,Autres spécialités médicales
+1916,Autres spécialités médicales
+1917,Autres spécialités médicales
+1918,Autres spécialités médicales
+1919,Autres spécialités médicales
+1920,Autres spécialités médicales
+1921,Autres spécialités médicales
+1922,Autres spécialités médicales
+1923,Autres spécialités médicales
+1924,Autres spécialités médicales
+1925,Autres spécialités médicales
+1926,Autres spécialités médicales
+1927,Autres spécialités médicales
+1928,Autres spécialités médicales
+1929,Autres spécialités médicales
+1930,Autres spécialités médicales
+1931,Autres spécialités médicales
+1932,Autres spécialités médicales
+1933,Autres spécialités médicales
+1934,Autres spécialités médicales
+1935,Autres spécialités médicales
+1936,Autres spécialités médicales
+1937,Autres spécialités médicales
+1938,Autres spécialités médicales
+1939,Autres spécialités médicales
+1940,Autres spécialités médicales
